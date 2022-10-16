@@ -13,3 +13,5 @@ Imports:
     dplyr,
     DT,
     magrittr
+URL: https://github.com/drrajeshtalluri/myutils
+BugReports: https://github.com/drrajeshtalluri/myutils/issues
